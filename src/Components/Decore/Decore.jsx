@@ -10,7 +10,7 @@ import express from "./decore/express.svg";
 import gg from "./decore/gg.svg";
 import redux from "./decore/redux.svg";
 import xd2 from "./decore/xd2.svg";
-import logo from "../Nav/nav/logo.png"
+import logo from "../Nav/nav/Logo.png"
 import ai2 from "./decore/ai2.svg";
 import node from "./decore/node.svg";
 import circle1 from "./decore/circle1.svg";
